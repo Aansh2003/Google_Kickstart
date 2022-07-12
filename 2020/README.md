@@ -5,8 +5,8 @@ This game has N levels, and you are currently on the K-th level. Unfortunately, 
 
 Now you want to pick up the sword and finish the game in the least amount of time possible, and for that you have two options:
 
-    Restart the game and complete all levels again, starting from level 1.
-    Move to previous levels until you reach level S, pick up the sword and complete all the remaining levels, starting from level S.
+Restart the game and complete all levels again, starting from level 1.
+Move to previous levels until you reach level S, pick up the sword and complete all the remaining levels, starting from level S.
 
 Every time you enter a level you have to exit it, either by completing it and going to the next level or by moving to a previous level or by finishing / exiting the game. Exiting any level takes 1 minute. That means, for example, that it took you L minutes to complete the first L levels.
 
